@@ -1,0 +1,6 @@
+framework module Pods_FinalSegmentIOS {
+  umbrella header "Pods-FinalSegmentIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
